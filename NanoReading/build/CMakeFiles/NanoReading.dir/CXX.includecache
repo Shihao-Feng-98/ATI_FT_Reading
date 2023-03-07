@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/feng_shihao/fsh_file/ATI/NanoReading/main.cpp
+arpa/inet.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netdb.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
